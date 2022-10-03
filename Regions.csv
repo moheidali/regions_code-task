@@ -1,0 +1,14 @@
+OBJECTID,REGIONCODE,REGIONNAME_AR,REGIONNAME_EN
+1,5,المنطقة الشرقية,Eastern Region
+2,1,منطقة الرياض,Riyadh Region
+3,2,منطقة مكة المكرمة,Makkah Al Mukarramah Region
+4,3,منطقة المدينة المنورة,Al Madinah Al Munawwarah Region
+5,4,منطقة القصيم,Al Qassim Region
+6,6,منطقة عسير,Asir Region
+7,7,منطقة تبوك,Tabuk Region
+8,8,منطقة حائل,Hail Region
+9,9,منطقة الحدود الشمالية,Northern Borders Region
+10,10,منطقة جازان,Jazan Region
+11,11,منطقة نجران,Najran Region
+12,12,منطقة الباحة,Al Bahah Region
+13,13,منطقة الجوف,Al Jawf Region
